@@ -1,5 +1,5 @@
 const Discord = require("discord.js");
-const ownerID = require("/Users/admin/Documents/wizards system/json/config.json").ownerID;
+const ownerID = require('./config.json').ownerID;
 
 module.exports = {
     name: "eval",
