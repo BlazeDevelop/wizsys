@@ -7,5 +7,23 @@
     "mongoose": "^6.9.0",
     "mongose": "^0.0.2-security",
     "ms": "^2.1.3"
-  }
+  },
+  "name": "wizards-system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlazeDevelop/wizsys.git"
+  },
+  "author": "fblazedev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlazeDevelop/wizsys/issues"
+  },
+  "homepage": "https://github.com/BlazeDevelop/wizsys#readme",
+  "description": ""
 }
