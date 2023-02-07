@@ -18,7 +18,7 @@ for (const file of eventFiles) {
     client.on(eventName, event.bind(null, client));
 }
 
-const config = require("./json/config.json");
+const config = require('./config.json');
 const prefix = config.prefix;
 
 client.on("ready", () => {
