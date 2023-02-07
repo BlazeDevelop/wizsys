@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "discord-giveaways": "^4.5.1",
+    "discord.js": "^12.0.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "mongoose": "^6.9.0",
+    "mongose": "^0.0.2-security",
+    "ms": "^2.1.3"
+  }
+}
